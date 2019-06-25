@@ -1,10 +1,15 @@
 # C#exam
 //The purpose of the C# exam was to create a console program which reads data from a .txt file, and allow the user to append data to the //file, aswell as showing the neccesary information on the console window
 // PLEASE NOTE THE COMMENTS ARE IN ALL IN DANISH.
+
 using System;
+
 using System.Collections.Generic;
+
 using System.Linq;
+
 using System.Text;
+
 using System.Threading.Tasks;
 
 namespace ByteBusters
